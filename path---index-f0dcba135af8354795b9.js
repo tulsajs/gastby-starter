@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{299:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Default Starter"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-f0dcba135af8354795b9.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xc6c285f8fd10],{186:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0,t.query=void 0;var r=a(4),u=n(r),d=a(85),l=n(d),o=function(e){var t=e.data.allStarWarsPeopleJson.edges;return u.default.createElement("div",null,t.map(function(e){return u.default.createElement("div",{key:e.node.name},e.node.name)}),u.default.createElement(l.default,{to:"/"},"Go back to the homepage"))};t.default=o;t.query="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-page-2-js-a4290b88927a4bfca840.js.map
